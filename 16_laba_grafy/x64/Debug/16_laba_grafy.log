@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\Study\ОАИП\1курс\16_laba_grafy\16_laba_grafy\main.cpp(205,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+D:\Study\ОАИП\1курс\16_laba_grafy\16_laba_grafy\main.cpp(215,13): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  16_laba_grafy.vcxproj -> D:\Study\ОАИП\1курс\16_laba_grafy\x64\Debug\16_laba_grafy.exe
